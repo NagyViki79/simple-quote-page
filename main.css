@@ -19,3 +19,16 @@ figcaption {
     color: dimgray;
     font-style: italic;
 }
+nav {
+    box-sizing: border-box;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+li {
+    background: cyan;
+    list-style-type: none;
+    text-align: center;
+}
