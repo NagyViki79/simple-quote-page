@@ -28,7 +28,12 @@ nav {
     margin-top: 200px;
 }
 li {
-    background: cyan;
+    background: white;
     list-style-type: none;
     text-align: center;
+    padding: 1px;
+}
+.hun-flag {
+    width: 30px;
+    height: 20px;
 }
